@@ -1,1 +1,3 @@
 ieraksts
+veidojam konfliktus
+redigejot failu
